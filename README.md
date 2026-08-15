@@ -1,4 +1,5 @@
-# Vivo/iQOO 144 FPS Unlocker
+u# Vivo/iQOO 144
+FPS Unlocker
 
 Small Android app that unlocks 144 Hz globally on certain Vivo/iQOO (OriginOS) devices by writing a vendor system setting.
 
